@@ -42,7 +42,7 @@ Versi terbaru dapat diunduh di halaman [Releases](https://github.com/d-tech99/mi
 
 ## 👨‍💻 Developer
 Dibuat oleh **D-Tech99 (Yatul Hamdani)**  
-Channel YouTube: [D-Tech99](https://youtube.com/@d-tech99)
+Channel YouTube: [D-Tech99](https://www.youtube.com/@D-Tech-99)
 
 ---
 
