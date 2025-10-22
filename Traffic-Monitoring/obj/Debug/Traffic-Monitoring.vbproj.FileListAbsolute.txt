@@ -1,0 +1,17 @@
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\bin\Debug\Traffic-Monitoring.exe.config
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\bin\Debug\Traffic-Monitoring.exe
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\bin\Debug\Traffic-Monitoring.pdb
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\bin\Debug\Traffic-Monitoring.xml
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\bin\Debug\tik4net.dll
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\bin\Debug\tik4net.objects.dll
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\bin\Debug\tik4net.xml
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\bin\Debug\tik4net.objects.xml
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\obj\Debug\Traffic-Monitoring.vbproj.AssemblyReference.cache
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\obj\Debug\Traffic_Monitoring.Form1.resources
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\obj\Debug\Traffic_Monitoring.Resources.resources
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\obj\Debug\Traffic-Monitoring.vbproj.GenerateResource.cache
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\obj\Debug\Traffic-Monitoring.vbproj.CoreCompileInputs.cache
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\obj\Debug\Traffic-.480C45D2.Up2Date
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\obj\Debug\Traffic-Monitoring.exe
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\obj\Debug\Traffic-Monitoring.xml
+D:\D-Tech Project\Traffic-Monitoring\Traffic-Monitoring\obj\Debug\Traffic-Monitoring.pdb
